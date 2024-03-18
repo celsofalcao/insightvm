@@ -1,6 +1,7 @@
 # Rapid7 InsightVM - Análise de Vulnerabilidades
 
-![InsightVM-V2-removebg-preview](https://github.com/celsofalcao/insightvm/assets/162662857/dcf1cf4a-05fe-41b4-9a66-a520f3838de3)
+![image](https://github.com/celsofalcao/insightvm/assets/162662857/50170e2e-237d-4e18-96ca-44d9d613713b)
+
 
 ## Objetivo
 
